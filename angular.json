@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "jds-me"
+  "defaultProject": "jds-me",
+  "cli": {
+    "analytics": "c33ac260-9948-47f8-b725-1e8a4778305c"
+  }
 }
