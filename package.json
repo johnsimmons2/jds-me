@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
+    "dev": "nodemon",
     "start": "node server.js",
     "build": "ng build",
     "test": "ng test",
@@ -44,9 +45,10 @@
     "karma-coverage": "~2.0.3",
     "karma-jasmine": "~4.0.0",
     "karma-jasmine-html-reporter": "^1.5.0",
+    "nodemon": "^2.0.6",
     "path": "^0.12.7",
     "protractor": "~7.0.0",
-    "ts-node": "~8.3.0",
+    "ts-node": "^8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~4.0.2"
   },
